@@ -101,3 +101,8 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+module:
+  import:
+    path: "github.com/adityatelange/hugo-PaperMod"
+    theme: "papermod"
