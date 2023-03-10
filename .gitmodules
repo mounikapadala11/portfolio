@@ -4,3 +4,11 @@
 [submodule "themes/papermod"]
 	path = themes/papermod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "mounikapadala.github.io"]
+	path = mounikapadala.github.io
+	url = https://github.com/mounikapadala11/mounikapadala.github.io.git
+	branch = main
+[submodule "public"]
+	path = public
+	url = https://github.com/mounikapadala11/mounikapadala.github.io.git
+	branch = main
