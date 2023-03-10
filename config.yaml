@@ -1,7 +1,7 @@
 baseURL: "https://arkalim.org"
 languageCode: en-us
 title: Mounika Padala
-theme: papermod
+theme: PaperMod
 
 menu:
   main:
